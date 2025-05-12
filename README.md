@@ -27,4 +27,4 @@
 
 [![codewars](https://www.codewars.com/users/_RsN_/badges/large)](https://www.codewars.com/users/_RsN_)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RsN&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/1RsN1)
