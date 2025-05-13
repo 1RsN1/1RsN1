@@ -24,10 +24,14 @@
 |     Название проекта     |          Описание проекта          |    Стек   |
 |--------------------------|------------------------------------|-----------|
 
-<h3>📊 Интересная статистика:</h3>
+<h3>📊 Моя статистика:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1RsN1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/_RsN_/badges/large)](https://www.codewars.com/users/_RsN_)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/1RsN1)
+
+<h3>📞 Контакты:</h3>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Romnov_A)
